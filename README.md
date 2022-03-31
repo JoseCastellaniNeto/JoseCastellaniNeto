@@ -7,10 +7,11 @@ Management in progress. I am passionate about
 programming and computer science, Recruiting in LinkedIn and GitHub, currently studying Machine Learning, Artificial Intelligence, JavaScript, HTML and CSS in VisualCode Studio.
 
 Discord: josecntechrecruiter#9896
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="josecneto2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https:/![Capa2](https://user-images.githubusercontent.com/91694294/160528886-35b0f1da-2f51-4c40-aa14-797129c3fef4.png)
+## <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="josecneto2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https:/![Capa2](https://user-images.githubusercontent.com/91694294/160528886-35b0f1da-2f51-4c40-aa14-797129c3fef4.png)
 /br.linkedin.com/in/josecneto2/en?trk=profile-badge">LinkedIn.</a></div>
               
               
+![logo azul BRANCO](https://user-images.githubusercontent.com/91694294/161122858-ec7c176f-2937-4975-b679-78f7d897750f.png)
 
 
 <!--
