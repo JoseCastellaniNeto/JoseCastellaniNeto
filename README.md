@@ -1,10 +1,10 @@
 # Hello World 👋🌎
 
-# Recruiting people, changing lives
+## Recruiting people, changing lives
 
 I am a Psychology graduate with MBA in Projects
 Management in progress. I am passionate about
-programming and computer science, Recruiting in LinkedIn and GitHub, currently studying Machine Learning, Artificial Intelligence, JavaScript, HTML and CSS in VisualCode Studio.
+programming and computer science, Recruiting in LinkedIn and GitHub, currently studying Data Science, Machine Learning, Artificial Intelligence, JavaScript, HTML and CSS in VisualCode Studio.
 
 Discord: josecntechrecruiter#9896
 
