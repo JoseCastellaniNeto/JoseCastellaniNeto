@@ -8,18 +8,15 @@ programming and computer science, Recruiting in LinkedIn, Loxo and GitHub, curre
 
 Discord: josecntechrecruiter#9896
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+Find me on:
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="josecneto2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/josecneto2/en?trk=profile-badge">José C.</a></div>
-             
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="josecneto2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https:/![Capa2](https://user-images.githubusercontent.com/91694294/160528886-35b0f1da-2f51-4c40-aa14-797129c3fef4.png)
-/br.linkedin.com/in/josecneto2/en?trk=profile-badge">LinkedIn.</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="josecneto2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/josecneto2/en?trk=profile-badge">José C.</a></div>
+              
               
               
 ![logo azul BRANCO](https://user-images.githubusercontent.com/91694294/161122858-ec7c176f-2937-4975-b679-78f7d897750f.png)
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--
 
 **JoseCastellaniNeto/JoseCastellaniNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
