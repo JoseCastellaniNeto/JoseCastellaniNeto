@@ -10,8 +10,9 @@ Find me on:
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="josecneto2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/josecneto2/en?trk=profile-badge">LinkedIn</a></div>
               
 Discord: josecntechrecruiter#9896         
-              
-![giphy](https://user-images.githubusercontent.com/91694294/166315834-f904c04b-fa13-4717-8d43-5433a7b2f79c.gif)
+
+![giphy](https://user-images.githubusercontent.com/91694294/166316124-95d609a4-55f9-4e6a-a351-25e6f3dd66c0.gif)
+
 
 <!--
 
