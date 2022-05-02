@@ -11,7 +11,7 @@ Find me on:
               
 Discord: josecntechrecruiter#9896         
 
-![giphy](https://user-images.githubusercontent.com/91694294/166316124-95d609a4-55f9-4e6a-a351-25e6f3dd66c0.gif)
+![giphy](https://user-images.githubusercontent.com/91694294/166316233-67cd3f61-6427-4fe5-9113-d47fbd418c9e.gif)
 
 
 <!--
