@@ -1,6 +1,6 @@
 # Hello World 👋🌎
 
-## Recruiting people, changing lives
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCastellaniNeto&theme=dark&show_icons=true)
 
 I am a Psychology graduate with MBA in Projects
 Management in progress. I am passionate about
