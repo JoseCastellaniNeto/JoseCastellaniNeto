@@ -15,10 +15,10 @@ I am a Psychology graduate with MBA in Projects Management in progress. I am pas
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JoseCastellaniNeto&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ 
+### Random Quote✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 
+### Random Meme😂 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
