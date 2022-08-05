@@ -12,8 +12,7 @@ programming and computer science, Recruiting in LinkedIn, Loxo and GitHub, curre
  
 <a href="https://www.twitter.com/jzcstllnnt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-!<iframe src="https://giphy.com/embed/ITRemFlr5tS39AzQUL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/network-technologies-connectivity-ITRemFlr5tS39AzQUL">via GIPHY</a></p>
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/NXEuPHCOiJujANVznL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/visuals-network-connectivity-NXEuPHCOiJujANVznL"> 
 
 <!--
 
