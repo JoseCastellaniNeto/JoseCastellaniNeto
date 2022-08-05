@@ -13,3 +13,5 @@ programming and computer science, Recruiting in LinkedIn, Loxo and GitHub, curre
 <a href="https://www.twitter.com/jzcstllnnt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ![giphy](https://user-images.githubusercontent.com/91694294/166316388-5e2ceb72-d18c-447d-a54d-cc5c5a8a4b1f.gif)
+
+
