@@ -2,8 +2,6 @@
     <img src="https://moon-svg.minung.dev/moon.svg?size=150&theme=basic" alt="moon.svg" />
   </a>
 
-<iframe src="https://giphy.com/embed/ITRemFlr5tS39AzQUL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/network-technologies-connectivity-ITRemFlr5tS39AzQUL">via GIPHY</a></p>
-
 # 💫 About Me:
 I am a Psychology graduate with MBA in Projects Management in progress. I am passionate about programming and computer science, Recruiting in LinkedIn, Loxo and GitHub, currently studying Data Science, Machine Learning, Artificial Intelligence, JavaScript, HTML and CSS in VisualCode Studio.
 
