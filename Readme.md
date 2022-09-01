@@ -3,8 +3,7 @@
   </a>
 
 # 💫 About Me:
-I am a Psychology graduate with MBA in Projects Management in progress. I am passionate about programming and computer science, Recruiting in LinkedIn, Loxo and GitHub, currently studying Data Science, Machine Learning, Artificial Intelligence, JavaScript, HTML and CSS in VisualCode Studio.
-
+I am a Psychology graduate with MBA in Projects Management - extension for Pearson College London in Business Strategy and Google Certificate in Data Analytics. I am passionate about programming and computer science, Recruiting in LinkedIn and GitHub, currently studying Data Science, Machine Learning, Artificial Intelligence, Python, R and Tableau. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jzcastellani_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/josecneto2/) 
