@@ -23,8 +23,5 @@ Recruiter specialized in a wide range of industries, including SAP, gaming, soft
 ### Random Quote✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Random Meme😂 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JoseCastellaniNeto&icon=0&color=11)](https://visitcount.itsvg.in)
